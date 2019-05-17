@@ -1,0 +1,19 @@
+=>i have two files "repo.txt" for storing repo data and "client_info.txt" for storing client information.
+
+=> to search a file - search "keyword"
+
+=> to share a file-   share "pathname"
+
+=> to delete a file-   del "pathname"
+
+=> client will automatically make a entry into client_info file when connection gets established.
+
+=> To disconnect - disc "anything"
+
+note- multithreading implemented only on server ends.
+
+					
+
+
+
+
